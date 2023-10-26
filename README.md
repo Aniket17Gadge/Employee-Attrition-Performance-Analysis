@@ -1,1 +1,2 @@
 # Employee-Attrition-Performance-Analysis
+  The project's main objective is to analyze employee data from different sources, such as HR files, performance reviews, and employee surveys. The analysis looks at things like attrition rates, job satisfaction, and employee demographics. I Worked On Employee Attrition Data set and Finding the Insights of it. and Also Visualized theData in Power BI to understand the Insights and Make Quick Decisions From It.
